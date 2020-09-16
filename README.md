@@ -6,3 +6,6 @@ Oto moja pierwsza zmiana na gicie. Trzeba rozkminić to narzędzie.
 
 Pozdrawiam,
 Damian
+
+P.S.
+Zobaczymy jak to działa.
